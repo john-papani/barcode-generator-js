@@ -1,6 +1,6 @@
 # Barcode Generator Project
 
-This project generates barcode images (as `.jpg` files) for a list of numbers using the `JsBarcode` library in Node.js. Each barcode is saved with the number as the file name.
+This project generates barcode images (as `.jpg` files) for a list of numbers using the [JsBarcode](https://github.com/lindell/JsBarcode) library in Node.js. Each barcode is saved with the number as the file name.
 
 ## Features
 
